@@ -1,0 +1,22 @@
+{
+    "name": "person_ts_skeleton",
+    "version": "0.0.1",
+    "description": "Skeleton for common person and other related typescript models (classes, interfaces, types etc.) that someone else might find useful. The library is attended to work with the related person_db_skeleton PHP library but can be used independently.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "skeleton",
+        "library",
+        "typescript",
+        "node",
+        "person",
+        "address",
+        "model"
+    ],
+    "author": {
+        "email": "dragonrun1@gmail.com",
+        "name": "Michael Cummings"
+    },
+    "license": "BSD-3-Clause"
+}
