@@ -18,5 +18,19 @@
         "email": "dragonrun1@gmail.com",
         "name": "Michael Cummings"
     },
-    "license": "BSD-3-Clause"
+    "license": "BSD-3-Clause",
+    "devDependencies": {
+        "covgen": "git+https://github.com/Yurickh/covenant-generator.git#update-covenant-link",
+        "mocha": "^7.1.0",
+        "typescript": "^3.8.3"
+    },
+    "dependencies": {
+    },
+    "config": {
+        "allowedLicenseTypes": [
+            "permissive",
+            "publicDomain",
+            "uncategorized"
+        ]
+    }
 }
